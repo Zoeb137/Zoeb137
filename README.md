@@ -9,6 +9,11 @@
 
 ### Skill
 
-Programming langague : Python, SQL, R
-Data Visualization : Tableau, Power BI 
-Financial Modeling : Discounted Cash Flow, Multiples, LBO
+- Programming langague : Python, SQL, R
+- Data Visualization : Tableau, Power BI 
+- Financial Modeling : Discounted Cash Flow, Multiples, LBO
+
+
+### Projects: 
+
+- Market Intelligence 

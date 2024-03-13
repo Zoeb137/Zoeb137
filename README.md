@@ -16,7 +16,7 @@
 
 ### Projects: 
 
-# Market Intelligence : To understand the Chinese Out-of-pocket market landscape and affordability of population layers with and without commercial health insurance, I conducted the market study and analysed in 3 perspectives :
+Market Intelligence : To understand the Chinese Out-of-pocket market landscape and affordability of population layers with and without commercial health insurance, I conducted the market study and analysed in 3 perspectives :
 
 - Chinese market practice in volumne estimations (Qualitative Study: Interviews & Real project experiences)
 
